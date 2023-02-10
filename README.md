@@ -32,6 +32,6 @@ I am a student Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ilkirov&theme=horizon&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilkirov&theme=dark)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkirov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
